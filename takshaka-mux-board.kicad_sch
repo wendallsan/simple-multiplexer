@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Simple Multiplexer")
+    (date "2022-09-21")
+    (rev "v0.2")
+    (company "Song Naga")
+  )
+
   (lib_symbols
     (symbol "4xxx:4051" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -7.62 19.05 0)
